@@ -1,1 +1,1 @@
-# PredictionApp
+# Disease Prediction
